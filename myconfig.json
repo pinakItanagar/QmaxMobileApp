@@ -1,0 +1,8 @@
+{
+    "ConfigData" : {
+        "prodBaseURL" : "https://qmaxonline.com/api/", 
+        "envType" : 1,
+        "devBaseURL" : "http://192.168.1.24/rlu/api/",
+        "appVersion" : "1.0.5"
+    } 
+}
